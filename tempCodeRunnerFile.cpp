@@ -1,0 +1,2 @@
+if(ch=="\n")
+        // continue;
