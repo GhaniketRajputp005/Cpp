@@ -8,7 +8,7 @@ protected:
 public:
     void setTempData(float x)
     {
-        temp = x;
+        temp = x; 
     }
     virtual void changetemp() = 0;
 };
