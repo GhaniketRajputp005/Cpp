@@ -11,6 +11,7 @@ public:
         temp = x; 
     }
     virtual void changetemp() = 0;
+    
 };
 
 class Fahrenheit : public Temperature
